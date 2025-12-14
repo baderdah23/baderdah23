@@ -10,7 +10,9 @@
 
 ###
 
-<h4 align="left">✨ Creating bugs since 2024<br>📚I'm currently studying BCS  and focusing on Front-End Engineer.</h4>
+<h4 align="left">✨ Creating bugs since 2024<br>📚I'm currently studying BCS  and focusing on Front-End Engineer<br> ## Contact
+📧 Email: bader.dahdouh07@gmail.com <br>
+🌍 Linkedin: https://www.linkedin.com/in/baderaldahdouh/ </h4>
 
 ###
 
@@ -37,14 +39,5 @@
 </div>
 
 ###
-
-<h2 align="left">My social media links</h2>
-
 ###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="90" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="90" alt="gmail logo"  />
-</div>
-
 ###
