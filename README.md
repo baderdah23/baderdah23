@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left">✨ Creating bugs since 2024<br>📚I'm currently studying Bachelor of Computer Science  and focusing on Front-End Engineer<br>
+<h4 align="left">✨ Creating bugs since 2025<br>📚I'm currently studying Bachelor of Computer Science  and focusing on Front-End Engineer<br>
 📧 Email: bader.dahdouh07@gmail.com <br>
 🌍 Linkedin: https://www.linkedin.com/in/baderaldahdouh/ </h4>
 
